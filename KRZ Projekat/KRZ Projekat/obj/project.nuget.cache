@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7ofxhnKypfe0+fZuY36PImCYB6G9gvP2tCG/3T/QFV50/b8O9eyXGHQrRrGNUdXmFpU3t5tqPsNSeHJCM65lmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\KRZ Projekat\\KRZ Projekat\\KRZ Projekat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\bouncycastle.cryptography\\2.3.0\\bouncycastle.cryptography.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

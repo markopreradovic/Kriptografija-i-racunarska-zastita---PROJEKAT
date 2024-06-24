@@ -1,0 +1,22 @@
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\bin\Debug\net8.0-windows7.0\KRZ Projekat.exe
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\bin\Debug\net8.0-windows7.0\KRZ Projekat.deps.json
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\bin\Debug\net8.0-windows7.0\KRZ Projekat.runtimeconfig.json
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\bin\Debug\net8.0-windows7.0\KRZ Projekat.dll
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\bin\Debug\net8.0-windows7.0\KRZ Projekat.pdb
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\bin\Debug\net8.0-windows7.0\BouncyCastle.Cryptography.dll
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ_Projekat.Prijava.resources
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ_Projekat.Properties.Resources.resources
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ_Projekat.Registracija.resources
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.csproj.CopyComplete
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.dll
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\refint\KRZ Projekat.dll
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.pdb
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ Projekat.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\ref\KRZ Projekat.dll
+C:\Users\Administrator\source\repos\KRZ Projekat\KRZ Projekat\obj\Debug\net8.0-windows7.0\KRZ_Projekat.GlavniMeni.resources
