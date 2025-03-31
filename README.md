@@ -31,6 +31,3 @@ Windows Forms application implementing classical ciphers with modern PKI infrast
 - BouncyCastle (`Install-Package BouncyCastle`)
 - Windows OS
 
-### Installation
-```bash
-git clone https://github.com/your-repo/crypto-project.git
