@@ -1,4 +1,4 @@
-# Cryptography and Information Security Project  
+# Cryptography and Computer Security Project  
 **Secure Cryptographic Suite (Myszkowski, Playfair, Rail Fence + PKI)**  
 
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp) 
